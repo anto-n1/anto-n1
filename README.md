@@ -1,2 +1,2 @@
-🇫🇷 French
-💻 Student in computer science
+- 🇫🇷 French
+- 💻 Student in computer science
