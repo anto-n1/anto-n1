@@ -1,2 +1,2 @@
-- 🇫🇷 French
-- 💻 Cybersecurity engineer
+- :fr: French expat living in the Netherlands
+- :computer: Cybersecurity engineer
